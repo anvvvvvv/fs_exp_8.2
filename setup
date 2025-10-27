@@ -1,0 +1,4 @@
+mkdir jwt-protected-routes
+cd jwt-protected-routes
+npm init -y
+npm install express jsonwebtoken dotenv body-parser
